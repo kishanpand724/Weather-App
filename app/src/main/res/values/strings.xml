@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AeroCast</string>
+    <string name="search_placeholder">Search any city (e.g., Tokyo, Paris, New York)…</string>
+    <string name="search_button_desc">Search city weather</string>
+    <string name="clear_search_desc">Clear search input</string>
+    <string name="refresh_weather_desc">Refresh weather data</string>
+    <string name="metric_humidity">Humidity</string>
+    <string name="metric_wind_speed">Wind Speed</string>
+    <string name="metric_feels_like">Feels Like</string>
+    <string name="metric_uv_index">UV Index</string>
+    <string name="metric_pressure">Pressure</string>
+    <string name="metric_precipitation">Precipitation</string>
+    <string name="section_hourly_forecast">Next 24 Hours</string>
+    <string name="section_daily_forecast">7-Day Outlook</string>
+    <string name="loading_weather">Fetching live atmospheric data…</string>
+    <string name="error_title">Unable to Load Weather</string>
+    <string name="retry_button">Try Again</string>
+    <string name="popular_cities_label">Quick Cities</string>
+    <string name="updated_just_now">Live Open-Meteo Telemetry • °C</string>
+    <string name="high_low_format">H: %1$s°C  •  L: %2$s°C</string>
+</resources>

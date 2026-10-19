@@ -1,0 +1,6 @@
+{
+  "name": "AeroCast",
+  "description": "A clean, modern, and responsive live weather application featuring global city search, current temperature in Celsius, weather conditions, humidity, wind speed, and forecast insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
